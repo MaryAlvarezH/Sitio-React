@@ -1,0 +1,12 @@
+.Body{
+  text-align: center;
+  }
+
+.Body-text{
+  text-align: center;
+  margin-left: 25px;
+  color:darkblue;
+  font-family: inherit;
+  font-size: 20px
+  
+}
